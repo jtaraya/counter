@@ -9,5 +9,13 @@ body {
 h1 {
     margin-top: 10px;
     text-align: center;
-    color: blue;
+    color: rgb(1, 1, 153);
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: blueviolet;
 }
